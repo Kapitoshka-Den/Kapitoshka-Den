@@ -130,8 +130,8 @@ I'm a **Frontend Developer** focused on building scalable interfaces, thoughtful
 <p>
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/microservices-0C1117?style=for-the-badge&logo=buffer&logoColor=F2CC60" alt="Microservices" />
-  <img src="https://img.shields.io/badge/system_design-0C1117?style=for-the-badge&logo=bookstack&logoColor=F2CC60" alt="System Design" />
   <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/system_design-0C1117?style=for-the-badge&logo=bookstack&logoColor=F2CC60" alt="System Design" />
 </p>
 
 ---
