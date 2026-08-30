@@ -32,7 +32,7 @@ I'm a **Frontend Developer** focused on building scalable interfaces, thoughtful
 - 🧩 I enjoy **frontend architecture, reusable components and design systems**
 - 🔄 I work with **Redux Toolkit / RTK Query**, modern tooling and API integrations
 - 🧪 I care about quality: **Vitest, Jest, React Testing Library, Playwright**
-- 🛠️ Right now I'm learning more about **Node.js, Fastify, NestJS, PostgreSQL, Redis**
+- 🛠️ Right now I'm learning more about **NestJS, PostgreSQL, Redis, Kubernetes**
 
 ---
 
